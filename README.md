@@ -1,5 +1,7 @@
 # LONGEST-SUBSTRING-WITHOUT-REPEATING-CHARACTERS
 Leetcode question(https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+
 BRUTE FORCE approach-->O(n^2) time and O(n) space
 
 ![image](https://user-images.githubusercontent.com/102652030/173072367-c09fba67-0c42-4989-b689-4eb07a80fec2.png)
